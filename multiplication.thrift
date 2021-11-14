@@ -1,5 +1,5 @@
-namespace java tutorial
-namespace py tutorial
+namespace java io.hommalab.app
+namespace py io.hommalab.app
 
 /*
  C like comments are supported
